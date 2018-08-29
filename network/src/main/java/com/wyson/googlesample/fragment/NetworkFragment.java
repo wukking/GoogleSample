@@ -29,7 +29,7 @@ import java.net.URL;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * @author : Administrator
+ * @author : Wuyson
  * @date : 2018/8/29-15:59
  */
 public class NetworkFragment extends Fragment {
