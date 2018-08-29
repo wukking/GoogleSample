@@ -1,0 +1,2 @@
+# GoogleSample
+Android Traning Code
